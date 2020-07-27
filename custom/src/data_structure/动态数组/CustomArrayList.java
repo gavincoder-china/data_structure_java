@@ -1,4 +1,4 @@
-package 动态数组; /**
+package data_structure.动态数组; /**
  * @Author: GavinCoder
  * @Date: 2020/6/6 10:14 下午
  */

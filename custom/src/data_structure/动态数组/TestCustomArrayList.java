@@ -1,11 +1,8 @@
-package 动态数组;
+package data_structure.动态数组;
 /**
  * @Author: GavinCoder
  * @Date: 2020/6/6 11:42 下午
  */
-
-import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * **********************************************************
